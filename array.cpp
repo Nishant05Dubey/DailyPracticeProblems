@@ -3,7 +3,7 @@ using namespace std;
 
 void main{
 
-    int nums[5]={67,45,23,76,23};
+    int nums[5]={60,45,23,76,23};
     int size = 6;
     int smallest = INT_MAX;
 
